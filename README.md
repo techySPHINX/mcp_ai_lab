@@ -48,8 +48,8 @@ Explore full guides and technical breakdowns:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/mcp-ai-agents-suite.git
-cd mcp-ai-agents-suite
+git clone https://github.com/yourusername/mcp_ai_lab.git
+cd mcp_ai_lab
 
 # Install requirements
 pip install -r requirements.txt
